@@ -12,9 +12,9 @@ using System.Xml;
 
 namespace ControleXML
 {
-    public partial class Form1 : Form
+    public partial class frmLeituraXml : Form
     {
-        public Form1()
+        public frmLeituraXml()
         {
             InitializeComponent();
         }

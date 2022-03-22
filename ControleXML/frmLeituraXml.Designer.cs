@@ -1,6 +1,6 @@
 ﻿namespace ControleXML
 {
-    partial class Form1
+    partial class frmLeituraXml
     {
         /// <summary>
         /// Required designer variable.

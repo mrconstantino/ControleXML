@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<evtInfoEmpregador Id="9867587576474854865465">	<ideEvento>	<tpAmb>7</tpAmb> <procEmi>5</procEmi> <verProc>19.9.79.8</verProc> </ideEvento> <ideEmpregador> <tpInsc>6</tpInsc> <nrInsc>87778987</nrInsc> </ideEmpregador> <infoEmpregador> <inclusao> <idePeriodo> <iniValid>2022-01</iniValid> </idePeriodo> <infoCadastro> <classTrib>06</classTrib> <indCoop>0</indCoop> <indConstr>0</indConstr> <indDesFolha>0</indDesFolha> <indOptRegEletron>0</indOptRegEletron> </infoCadastro> </inclusao> </infoEmpregador> </evtInfoEmpregador>
